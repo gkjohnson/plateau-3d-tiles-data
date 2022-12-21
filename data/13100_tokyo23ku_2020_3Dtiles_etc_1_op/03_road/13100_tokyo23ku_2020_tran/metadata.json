@@ -1,0 +1,12 @@
+{
+  "name":"13100_tokyo_tran",
+  "description":"",
+  "version":2,
+  "minzoom":8,
+  "maxzoom":15,
+  "center":"139.7404069,35.6765665,0",
+  "bounds":"139.5629065,35.5356363,139.9179073,35.8174966",
+  "type":"overlay",
+  "format":"pbf",
+  "json":"{\n  \"vector_layers\":[\n    {\n      \"id\":\"road\",\n      \"description\":\"\",\n      \"minzoom\":8,\n      \"maxzoom\":15,\n      \"fields\":{\n      }\n    }\n  ],\n  \"tilestats\":{\n    \"layerCount\":1,\n    \"layers\":[\n      {\n        \"layer\":\"road\",\n        \"count\":200332,\n        \"geometry\":\"Polygon\",\n        \"attributeCount\":0,\n        \"attributes\":[\n        ]\n      }\n    ]\n  }\n}"
+}

@@ -1,0 +1,12 @@
+{
+  "name":"13100_tokyo_park",
+  "description":"",
+  "version":2,
+  "minzoom":9,
+  "maxzoom":15,
+  "center":"139.7409752,35.6766536,0",
+  "bounds":"139.5638726,35.5368334,139.9180778,35.8164738",
+  "type":"overlay",
+  "format":"pbf",
+  "json":"{\n  \"vector_layers\":[\n    {\n      \"id\":\"park\",\n      \"description\":\"\",\n      \"minzoom\":9,\n      \"maxzoom\":15,\n      \"fields\":{\n      }\n    }\n  ],\n  \"tilestats\":{\n    \"layerCount\":1,\n    \"layers\":[\n      {\n        \"layer\":\"park\",\n        \"count\":14046,\n        \"geometry\":\"Polygon\",\n        \"attributeCount\":0,\n        \"attributes\":[\n        ]\n      }\n    ]\n  }\n}"
+}
